@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/routeTypedIntoBrowser",
+            "redirect": "https://passwordreset.microsoftonline.com/?whr=lonestarelectricsupply.com",
+            "statusCode": 301
+        }
+    ]
+}
